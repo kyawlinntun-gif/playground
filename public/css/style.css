@@ -1,0 +1,19 @@
+.box {
+    width: 220px;
+    border: 1px solid #a22;
+    padding: 1px;
+    margin-bottom: 8px;
+}
+.box h3 {
+    color: #fff;
+    background: #c22;
+    padding: 8px;
+    margin: 0;
+    cursor: pointer;
+}
+.box h3.up {
+    color: #d99;
+}
+.box a {
+    color: #900;
+}
